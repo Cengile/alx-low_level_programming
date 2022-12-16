@@ -1,10 +1,12 @@
 #include "main.h"
-#include <stdlib.h>
-#include <time.h>
 
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+/**
+ *
+ * main - tests function that prints if integer is positive or negative
+ *
+ * Return: 0
+ *
+ */
 
 int main(void)
 {
