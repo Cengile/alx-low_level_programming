@@ -11,11 +11,10 @@
 int main(void)
 {
 
-	int n;
+	int i;
 
-	srand(time(0));
-	n = rand() - RAND_MAX / 2;
-	/* your code goes there */
+	i= 98
+	positive_or_negative(i);
 
 	return (0);
 
