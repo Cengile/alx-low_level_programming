@@ -13,11 +13,10 @@ int main(void)
 	int a, b, c;
 	int largest;
 
-
 	if (a > b && b > c)
        	{
 	
-		largest = a
+		largest = a;
 	}
 	else if (b >= a && b >= c)
 	{
