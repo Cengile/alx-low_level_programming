@@ -21,7 +21,7 @@ void rev_string(char *s)
 	char *a, aux;
 
 
-	c = s;
+	a = s;
 
 	while (s[c] != '\0')
 
