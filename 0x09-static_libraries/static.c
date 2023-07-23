@@ -2,9 +2,7 @@
 
 int main(void)
 {
-
-	return (write(1, &c, 1));
-	_puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Cengile");
-
-	return 0;
+    _puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
+    _puts("\"At the end of the day, my goal was to create a static library\"\n\t- Cengile");
+    return (0);
 }
