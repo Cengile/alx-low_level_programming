@@ -1,5 +1,5 @@
 #!/bin/bash
 
-gcc -c libmy.c
+gcc -c Libmy.c
 ar -rc libmy.a libmy.o
-
+ranlib
