@@ -1,7 +1,13 @@
 #include "main.h"
+#include <stdio.h>  
 
-int main(void)
-{
-    _puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
-    return (0);
-}
+int_putchar(char c)  
+{  
+     
+    char c = '0';  
+ 
+    for (c = '0'; c <= '9'; c++)  
+        _putchar(c);  
+    return (0);  
+}  
+
